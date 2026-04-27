@@ -26,7 +26,7 @@ Based on these, movies are grouped into four categories:
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard.png](dashboard.png)
 
 ---
 
