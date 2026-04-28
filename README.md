@@ -33,7 +33,7 @@ Based on these, movies are grouped into four categories:
 ## 🔗 Interactive Dashboard
 
 You can explore the full interactive visualization here:
-(I will include the link)
+https://public.tableau.com/app/profile/mehlika.atmaca/viz/MovieSuccessAnalysis_17773917262740/MovieSuccessAnalysis#1
 
 ---
 
